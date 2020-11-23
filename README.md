@@ -1,3 +1,3 @@
-# rock-paper-scissors-game
+# Rock-paper-scissors-game
 
-there's nothing interesting here
+there's nothing interesting here!
